@@ -1,0 +1,20 @@
+[
+    {
+      "dziedzina":"sprint 100m",
+      "rekordzista":"Usain Bolt",
+      "rok":2009,
+      "rekordowy_wynik":"9.58 sekund"
+    },
+    {
+      "dziedzina":"skok o tyczce",
+      "rekordzista":"Armand Duplantis",
+      "rok":2026,
+      "rekordowy_wynik":"6.31 metra"
+    },
+    {
+      "dziedzina":"pływanie 100m",
+      "rekordzista":"Pan Zhanle",
+      "rok":2024,
+      "rekordowy_wynik":"46.40 sekund"
+    }
+  ]
